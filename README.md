@@ -4,9 +4,11 @@
 ## Projekte
 ### WeSplit
 Behandelt: Grundlegender Aufbau einer SwiftUI-App, Form, NavigationStack, @State, ForEach, TextField, Picker, @FocusState
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 13 06 31](https://github.com/user-attachments/assets/8fc0b95c-ff1b-4fb2-bed7-4fbe97a35f60)
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-25 at 13 07 13](https://github.com/user-attachments/assets/d3ea4980-9b70-4631-b69b-f73ccad5ad71)
+
+<img src="https://github.com/user-attachments/assets/baa2681a-0224-47c6-8254-fd4071bf4171" alt = "WeSplit" width = "206,97940503" height = "450">
+<img src="https://github.com/user-attachments/assets/ddf52e11-9d0a-4927-af7b-34d16b9f20e2" alt = "WeSplit" width = "206,97940503" height = "450">
 
 ## Technologieprojekte
 
 ## Challenge-Days
+
