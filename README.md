@@ -99,10 +99,6 @@ Item-Selection in List, TabView, Result, ContextMenus, lokale Notifications, Swi
 ### Flashzilla
 Gestures, Timer, Scene-State
 
-![Flashzilla1](https://github.com/user-attachments/assets/50df8736-1396-426d-8303-a683fcfd4833)
-![Flashzilla2](https://github.com/user-attachments/assets/74819931-cf51-410f-b6c6-d0cd4261808b)
-![Flashzilla3](https://github.com/user-attachments/assets/185140ff-b8e1-4970-aba6-62d27de8ac8f)
-
 <img src="https://github.com/user-attachments/assets/50df8736-1396-426d-8303-a683fcfd4833" alt = "Flashzilla1" width = "450" height = "206,97940503">
 <img src="https://github.com/user-attachments/assets/74819931-cf51-410f-b6c6-d0cd4261808b" alt = "Flashzilla2" width = "450" height = "206,97940503">
 <img src="https://github.com/user-attachments/assets/185140ff-b8e1-4970-aba6-62d27de8ac8f" alt = "Flashzilla3" width = "450" height = "206,97940503">
