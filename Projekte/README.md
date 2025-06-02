@@ -68,3 +68,10 @@ Gestures, Timer, Scene-State
 <img src="https://github.com/user-attachments/assets/50df8736-1396-426d-8303-a683fcfd4833" alt = "Flashzilla1" width = "450" height = "206,97940503">
 <img src="https://github.com/user-attachments/assets/74819931-cf51-410f-b6c6-d0cd4261808b" alt = "Flashzilla2" width = "450" height = "206,97940503">
 <img src="https://github.com/user-attachments/assets/185140ff-b8e1-4970-aba6-62d27de8ac8f" alt = "Flashzilla3" width = "450" height = "206,97940503">
+
+### SnowSeeker
+NavigationSplitView, Group und Size Class, ViewThatFits
+
+<img src="https://github.com/user-attachments/assets/6c611ab9-2381-44b2-9ede-554fda668690" alt = "SnowSeeker1" width = "450" height = "206,97940503">
+<img src="https://github.com/user-attachments/assets/833cf559-822f-4dc5-ad1a-c7056ec704e3" alt = "SnowSeeker2" width = "450" height = "206,97940503">
+
