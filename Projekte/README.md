@@ -72,6 +72,6 @@ Gestures, Timer, Scene-State
 ### SnowSeeker
 NavigationSplitView, Group und Size Class, ViewThatFits
 
-<img src="https://github.com/user-attachments/assets/6c611ab9-2381-44b2-9ede-554fda668690" alt = "SnowSeeker1" width = "450" height = "206,97940503">
-<img src="https://github.com/user-attachments/assets/833cf559-822f-4dc5-ad1a-c7056ec704e3" alt = "SnowSeeker2" width = "450" height = "206,97940503">
+<img src="https://github.com/user-attachments/assets/6c611ab9-2381-44b2-9ede-554fda668690" alt = "SnowSeeker1" width = "206,97940503" height = "450">
+<img src="https://github.com/user-attachments/assets/833cf559-822f-4dc5-ad1a-c7056ec704e3" alt = "SnowSeeker2" width = "206,97940503" height = "450">
 
